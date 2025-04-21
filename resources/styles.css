@@ -1,0 +1,52 @@
+html{
+
+}
+
+body{
+    text-align: center;
+    background-color: grey;
+}
+
+input{
+    width: 35%;
+    align-self: center;
+}
+
+h1{
+    font-size: 100px;
+    height: 140px;
+    background-image: url("banner.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.form{
+    width: auto;
+    margin: 20px;
+    border: 5px solid black;
+    border-radius: 15%;
+}
+
+.input{
+    margin: 20px 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;    
+}
+
+#name{
+
+}
+
+#product{
+
+}
+
+#quantity{
+
+}
+
+#xtra{
+
+}

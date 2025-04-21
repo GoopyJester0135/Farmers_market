@@ -1,0 +1,11 @@
+Congrats!
+you are now registered for the SCCC farmers market*.
+
+
+
+
+
+
+*note that this does not actually do anything, it is only a mock-up
+ in a full version the information would be sent to a database for
+ scheduling and planning the event.
